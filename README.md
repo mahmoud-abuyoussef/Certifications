@@ -45,23 +45,53 @@
 - Explore a Career in Front-End Web Development
 ![Explore a Career in Front-End Web Development](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Explore_a_Career_in_FrontEnd_Web_Development/Explore_a_Career_in_FrontEnd_Web_Development.png)
 
--
-![]()
+- Practical GitHub Actions
+![Practical GitHub Actions](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Practical_GitHub_Actions/Practical_GitHub_Actions.png)
 
--
-![]()
+- Practical GitHub Project Management and Collaboration
+![Practical GitHub Project Management and Collaboration](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Practical_GitHub_Project_Management_and_Collaboration/Practical_GitHub_Project_Management_and_Collaboration.png)
 
--
-![]()
+- Practical GitHub Project Management and Collaboration by PMI
+![Practical GitHub Project Management and Collaboration by PMI](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Practical_GitHub_Project_Management_and_Collaboration_By_PMI/Practical_GitHub_Project_Management_and_Collaboration_By_PMI.png)
 
--
-![]()
+- Practical GitHub Copilot
+![Practical GitHub Copilot](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Practical_GitHub_Copilot/Practical_GitHub_Copilot.png)
 
--
-![]()
+- Practical GitHub Code Search
+![Practical GitHub Code Search](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Practical_GitHub_Code_Search/Practical_GitHub_Code_Search.png)
 
--
-![]()
+- Career Essentials in GitHub Professional Certificate
+![Career Essentials in GitHub Professional Certificate](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Career_Essentials_in_GitHub_Professional_Certificate/Career_Essentials_in_GitHub_Professional_Certificate.png)
+
+- Introduction to Career Skills in Software Development
+![Introduction to Career Skills in Software Development](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Introduction_to_Career_Skills_in_Software_Development/Introduction_to_Career_Skills_in_Software_Development.png)
+
+- Programming Foundations: Fundamentals
+![Programming Foundations: Fundamentals](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Programming_Foundations_Fundamentals/Programming_Foundations_Fundamentals.png)
+
+- Programming Foundations: Beyond the Fundamentals
+![Programming Foundations: Beyond the Fundamentals](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Programming_Foundations_Beyond_the_Fundamentals/Programming_Foundations_Beyond_the_Fundamentals.png)
+
+- Career Essentials in Software Development by Microsoft and LinkedIn
+![Career Essentials in Software Development by Microsoft and LinkedIn](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Career_Essentials_in_Software_Development_by_Microsoft_and_LinkedIn/Career_Essentials_in_Software_Development_by_Microsoft_and_LinkedIn.png)
+
+- Programming Foundations: Object-Oriented Design
+![Programming Foundations: Object-Oriented Design](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Programming_Foundations_Object_Oriented_Design/Programming_Foundations_Object_Oriented_Design.png)
+
+- Programming Foundations: Algorithms
+![Programming Foundations: Algorithms](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Programming_Foundations_Algorithms/Programming_Foundations_Algorithms.png)
+
+- Programming Foundations: Data Structures
+![Programming Foundations: Data Structures](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Programming_Foundations_Data_Structures/Programming_Foundations_Data_Structures.png)
+
+- SEO Foundations
+![SEO Foundations](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/SEO_Foundations/SEO_Foundations.png)
+
+- SEO Foundations by NASBA
+![SEO Foundations by NASBA](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/SEO_Foundations_By_NASBA/SEO_Foundations.png)
+
+- Marketing Tools SEO
+![Marketing Tools SEO](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/LinkedIn_Learning/Marketing_Tools_SEO/Marketing_Tools_SEO.png)
 
 - Git and GitHub
 ![Git and GitHub](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/Almdrasa/Git_and_GitHub/Git_and_GitHub.png)

@@ -66,8 +66,5 @@
 -
 ![]()
 
--
-![]()
-
 - Git and GitHub
 ![Git and GitHub](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/Almdrasa/Git_and_GitHub/Git_and_GitHub.png)

@@ -96,10 +96,14 @@
 - Marketing Tools SEO [Show credential](https://www.linkedin.com/learning/certificates/f3b4471bcf818448311961a200c92626da360f764da08d4bee87fbdac1e78636?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOSu5p2DYQMGkoXiIvIV%2FXg%3D%3D)
   ![Marketing Tools SEO](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-LinkedIn_Learning/31-Marketing_Tools_SEO/Marketing_Tools_SEO.png)
 
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## Almdrasa
 
 - Git and GitHub [Show credential](https://almdrasa.com/certificate-verification/1454BD578-1453C20C7-12712683B/?srsltid=AfmBOoo-JQFfjzZS4aAuRPCgCvWKg56PpkJM8EzyQO7z52o62iMJ86l2)
   ![Git and GitHub](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/2-Almdrasa/1-Git_and_GitHub/Git_and_GitHub.png)
+
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## It Legend
 

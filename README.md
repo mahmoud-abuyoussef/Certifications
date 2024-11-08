@@ -144,7 +144,7 @@
   ![Bootstrap](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/4-Bootstrap/Bootstrap.png)
 
 - Node JS
-  ![Node JS](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/5-Node_JS/Node_JS.png)
+  ![Node JS](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/5-NodeJS/Node_JS.png)
 
 - Node JS MVC
   ![Node JS MVC](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/6-NodeJS_MVC/NodeJS_MVC.png)

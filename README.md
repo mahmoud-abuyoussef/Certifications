@@ -96,19 +96,19 @@
 - Marketing Tools SEO [Show credential](https://www.linkedin.com/learning/certificates/f3b4471bcf818448311961a200c92626da360f764da08d4bee87fbdac1e78636?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOSu5p2DYQMGkoXiIvIV%2FXg%3D%3D)
   ![Marketing Tools SEO](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-LinkedIn_Learning/31-Marketing_Tools_SEO/Marketing_Tools_SEO.png)
 
+- Becoming an Inspiring Mentor
+  ![Becoming an Inspiring Mentor](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-LinkedIn_Learning/32-Mentor/1-Becoming_an_Inspiring_Mentor/Becoming_an_Inspiring_Mentor.png)
+  ![Becoming an Inspiring Mentor](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-LinkedIn_Learning/32-Mentor/1-Becoming_an_Inspiring_Mentor/Becoming_an_Inspiring_Mentor_National.png)
+
+- Mentoring Others
+  ![Mentoring Others](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-LinkedIn_Learning/32-Mentor/2-Mentoring_Others/Mentoring_Others.png)
+
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## Almdrasa
 
 - Git and GitHub [Show credential](https://almdrasa.com/certificate-verification/1454BD578-1453C20C7-12712683B/?srsltid=AfmBOoo-JQFfjzZS4aAuRPCgCvWKg56PpkJM8EzyQO7z52o62iMJ86l2)
   ![Git and GitHub](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/2-Almdrasa/1-Git_and_GitHub/Git_and_GitHub.png)
-
-![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## It Legend
-
-- CPP Old 2020
-  ![CPP Old 2020](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/3-ItLegend/1-CPP_Old_2020/CPP_Old_2020.jpg)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -123,7 +123,17 @@
 
 - HTML & CSS
   ![HTML & CSS](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Maharat_Tech/HTML_CSS/HTML_CSS_AR.png)
-
   ![HTML & CSS](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Maharat_Tech/HTML_CSS/HTML_CSS_EN.png)
+
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## Satr
+
+![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## It Legend
+
+- CPP Old 2020
+  ![CPP Old 2020](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/3-ItLegend/1-CPP_Old_2020/CPP_Old_2020.jpg)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

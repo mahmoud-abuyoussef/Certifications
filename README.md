@@ -151,6 +151,7 @@
 
 - Node Package
   ![Node_Package](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/7-Node_Package/Node_Package.png)
+  ![Node_Package](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/7-Node_Package/Package_and_Dependency_101.png)
 
 - MongoDB
   ![MongoDB](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/5-Satr/8-MongoDB/MongoDB.png)

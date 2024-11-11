@@ -10,6 +10,10 @@
   [Show credential](https://app.manara.tech/certificate/1731329113-0BEC207B6B647B74)
   ![HTML and CSS](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/2-HTML_CSS/HTML_CSS.png)
 
+- Git Basics
+  [Show credential](https://app.manara.tech/certificate/1731330533-2436731DB074193B)
+  ![Git Basics](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/3-Git_Basics/Git_Basics.png)
+
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## LinkedIn Learning

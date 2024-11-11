@@ -14,6 +14,14 @@
   [Show credential](https://app.manara.tech/certificate/1731330533-2436731DB074193B)
   ![Git Basics](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/3-Git_Basics/Git_Basics.png)
 
+- JavaScript Basics
+  [Show credential](https://app.manara.tech/certificate/1731333245-3245581172651E26)
+  ![JavaScript Basics](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/4-JavaScript_Basics/JavaScript_Basics.png)
+
+- Advanced JavaScript
+  [Show credential](https://app.manara.tech/certificate/1731336604-17433619CB2574D8)
+  ![Advanced JavaScript](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/5-Advanced_JavaScript/Advanced_JavaScript.png)
+
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## LinkedIn Learning

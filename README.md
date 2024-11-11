@@ -3,10 +3,12 @@
 ## Manara
 
 - Intro to the Internet and Web
+  [Show credential](https://app.manara.tech/certificate/1731327479-7E26D47BB1358FAB)
   ![Intro to the Internet and Web](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/1-Intro_to_the_Internet_and_Web/Intro_to_the_Internet_and_Web.png)
 
-- Intro to the Internet and Web
-  ![Intro to the Internet and Web](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/2-HTML_CSS/HTML_CSS.png)
+- HTML and CSS
+  [Show credential](https://app.manara.tech/certificate/1731329113-0BEC207B6B647B74)
+  ![HTML and CSS](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/2-HTML_CSS/HTML_CSS.png)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 

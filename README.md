@@ -30,6 +30,10 @@
   [Show credential](https://app.manara.tech/certificate/1732230181-18DFAF28C7A3E084)
   ![React Basics](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/7-React_Basics/React_Basics.png)
 
+- Advanced React
+  [Show credential](https://app.manara.tech/certificate/1732230799-EF09B881A59D1723)
+  ![Advanced React](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/8-Advanced_React/Advanced_React.png)
+
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## LinkedIn Learning

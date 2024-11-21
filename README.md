@@ -26,6 +26,10 @@
   [Show credential](https://app.manara.tech/certificate/1732229287-A8A9DAB8F96E1FF3)
   ![Asynchronous JavaScript](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/6-Asynchronous_JavaScript/Asynchronous_JavaScript.png)
 
+- React Basics
+  [Show credential](https://app.manara.tech/certificate/1732230181-18DFAF28C7A3E084)
+  ![React Basics](https://github.com/mahmoud-abuyoussef/Certificates/blob/main/1-Manara/7-React_Basics/React_Basics.png)
+
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## LinkedIn Learning

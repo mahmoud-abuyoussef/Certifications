@@ -1,4 +1,4 @@
-# 🎓 My educational certificate
+# 🎓 My Educational Certifications
 
 ## Manara
 
